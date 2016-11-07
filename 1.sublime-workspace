@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"main\tmain()"
+			],
+			[
+				"av",
+				"avgs"
+			],
+			[
+				"a",
+				"avg"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"sut",
+				"students"
+			],
+			[
+				"c",
+				"cls"
+			],
+			[
+				"cl",
+				"c_cls"
+			],
+			[
+				"b",
+				"bdate"
+			],
+			[
+				"fo",
+				"found"
+			],
+			[
+				"dis",
+				"distToOrigin"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"ga",
+				"gameboard"
+			],
+			[
+				"prin",
+				"printMenu"
+			],
+			[
+				"read",
+				"readStudents"
+			],
+			[
+				"stu",
+				"student"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"gpa",
+				"gpas"
+			],
+			[
+				"tex",
+				"text2"
+			],
+			[
+				"tim",
+				"timerOn"
+			],
+			[
+				"text",
+				"text1"
+			],
+			[
+				"key",
+				"keyCodes"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"str",
+				"string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "112479.cpp",
+			"settings":
+			{
+				"buffer_size": 615,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "112481.cpp",
+			"settings":
+			{
+				"buffer_size": 1074,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "112481_2.cpp",
+			"settings":
+			{
+				"buffer_size": 1089,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "112479_@.cpp",
+			"settings":
+			{
+				"buffer_size": 385,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bsnbk/Documents/PL/PL2016_W11_G1_D2"
+	],
+	"file_history":
+	[
+		"/Users/bsnbk/Documents/PL/PL2016_W11_G3_D1/112484_3.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W11_G3_D1/112484_2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W11_G3_D1/2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W11_G3_D1/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W11_G3_D1/112484.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W11_G3_D1/112482_2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W11_G3_D1/112482.cpp",
+		"/Applications/XAMPP/xamppfiles/htdocs/kbtu.kz/ajax_info.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/kbtu.kz/index.php",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G2_D2/2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G2_D2/112488_2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G2_D2/112488.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G2_D2/112487.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G2_D2/112486.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G2_D2/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G1_D2/332.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G1_D2/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G1_D2/input.txt",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G1_D2/1404.cpp",
+		"/Users/bsnbk/Documents/PL2016_W10G3D1/1_2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G3_D1/323.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G3_D1/323_2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G3_D1/324.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G3_D1/324_2.cpp",
+		"/Users/bsnbk/Documents/PL2016_W10G3D1/325.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W10_G3_D1/input.txt",
+		"/Users/bsnbk/Documents/FWP/W10G1/FWP2016_G1_W9/index.html",
+		"/Users/bsnbk/Desktop/1.cpp",
+		"/Users/bsnbk/Documents/FWP/W9G2/index.html",
+		"/Users/bsnbk/Documents/FWP/W9G1/index.html",
+		"/Users/bsnbk/Documents/FWP/W9G1/jquery.min.js",
+		"/Users/bsnbk/Documents/FWP/W9G1/styles.css",
+		"/Users/bsnbk/Documents/PL/PL2016_W9_G2_D1/students.txt",
+		"/Users/bsnbk/Documents/PL/PL2016_W9_G2_D1/student.h",
+		"/Users/bsnbk/Documents/PL/PL2016_W9_G2_D1/4.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W9_G2_D1/3.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W9_G2_D1/2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W9_G2_D1/1.cpp",
+		"/Users/bsnbk/Documents/Projects/HBNotify/authserv/authserv/app/templates/app/layout.html",
+		"/Users/bsnbk/Documents/Projects/HBNotify/authserv/authserv/app/templates/app/contact.html",
+		"/Users/bsnbk/Documents/Projects/HBNotify/authserv/authserv/DjangoApp/urls.py",
+		"/Users/bsnbk/Documents/PL/PL2016_W8_G3_D1/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W8_G3_D1/2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W8_G3_D1/3.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W8_G3_D1/4.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W8_G3_D1/5.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W8_G3_D1/6.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W8_G3_D1/7.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W8_G3_D1/8.cpp",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/config.inc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mysite/index.php",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/output.txt",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/3.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/4.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/5.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/6.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/gen_input.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W7_G3_D1/input.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/kbtu.kz/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/kbtu.kz/page2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/kbtu.kz/page3.php",
+		"/Users/bsnbk/Documents/PL/PL2016_W5_G3_D1/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W5_G3_D1/2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W5_G3_D1/3.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W5_G3_D1/5.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W5_G3_D1/6.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W5_G3_D1/7.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W5_G3_D1/8.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W5_G3_D1/4.cpp",
+		"/Users/bsnbk/Desktop/stamina.js",
+		"/Users/bsnbk/Desktop/stamina.html",
+		"/Users/bsnbk/Documents/OOP/object-oriented-programming-fundamentals-csharp/5-oop-fundamentals-csharp-m5-responsibilities-exercise-files/ACM/ACM.sln",
+		"/Users/bsnbk/Documents/PL/Q1G1/4.cpp",
+		"/Users/bsnbk/Documents/PL/Q1G1/3.cpp",
+		"/Users/bsnbk/Documents/PL/Q1G1/2.cpp",
+		"/Users/bsnbk/Documents/PL/Q1G1/6.cpp",
+		"/Users/bsnbk/Documents/PL/Q1G1/5.cpp",
+		"/Users/bsnbk/Documents/PL/Q1G1/1.cpp",
+		"/Users/bsnbk/Documents/PL/Q1/1.cpp",
+		"/Users/bsnbk/Documents/PL/Q1/2.cpp",
+		"/Users/bsnbk/Documents/PL/Q1/3.cpp",
+		"/Users/bsnbk/Documents/PL/Q1/4.cpp",
+		"/Users/bsnbk/Documents/PL/Q1/5.cpp",
+		"/Users/bsnbk/Documents/PL/Q1/#include <iostream>",
+		"/Users/bsnbk/Documents/PL/draft/2.cpp",
+		"/Users/bsnbk/Documents/FWP/W3G1/script.js",
+		"/Users/bsnbk/Documents/FWP/W3G1/index2.html",
+		"/Users/bsnbk/Documents/FWP/W3G1/index.html",
+		"/Users/bsnbk/Documents/PL/PL2016_W3_G1_D1/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W3_G1_D1/2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W3_G1_D1/3.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W3_G1_D1/4.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W3_G1_D1/5.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W3_G1_D1/6.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W3_G1_D1/7.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W3_G1_D1/8.cpp",
+		"/Users/bsnbk/Documents/PL/draft/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W2_G1_D2/3.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W2_G1_D2/1_2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W2_G1_D2/1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W2_G3_D1/4.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W2_G3_D1/3.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W2_G3_D1/2_1.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W2_G3_D1/2.cpp",
+		"/Users/bsnbk/Documents/PL/PL2016_W2_G3_D1/1.cpp",
+		"/Users/bsnbk/Library/Application Support/Sublime Text 3/Packages/User/C++.sublime-build",
+		"/Users/bsnbk/Desktop/input.txt",
+		"/Users/bsnbk/Desktop/2.cpp",
+		"/Users/bsnbk/Desktop/index3.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getchar",
+			"\t\t\t\t\n",
+			"с"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "112479.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "112481.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1074
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "112481_2.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								636,
+								636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1106.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "112479_@.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 62.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++.sublime-build",
+	"project": "1.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
